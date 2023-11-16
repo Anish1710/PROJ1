@@ -1,1 +1,224 @@
-# PROJ1
+# PROJ
+<html>
+	<head>
+		<title>CU</title>
+	</head>
+	<body>
+		<img src="C:\Users\anish\OneDrive\Desktop\download.png" align='left' width='150' height='50'>
+		<img src="C:\Users\anish\OneDrive\Desktop\images.png" align='right' width='140' height='50'>
+		<br>
+		<center><h1 style="font-family: Bahnschrift condensed"><font size='50'><mark style="background-color: red; color: white;">CHANDIGARH</mark>UNIVERSITY</font></h1></center><hr>
+		<center><img src="C:\Users\anish\OneDrive\Desktop\Image1.jpg" width='1200' height='600'></center><hr>
+		<ul type = "square">
+			<li><h1 style="font-family: Bahnschrift condensed"><mark style="background-color: red; color: white;">UNIVERSITY</mark>INSTITUTE OF COMPUTING</h1></li>
+				<h3 style="font-family: Bahnschrift condensed">Best Computer Applications College<br> in Punjab, India</h3>
+				<table>
+					<tr>
+						<td>Chandigarh University Institute of Computing (UIC) is one of the best Computer Applications college in Punjab, India to get a degree in Computer Applications. UIC prepare you for a successful career in computing, to create and disseminate computing knowledge and technology. Recognized as Best Computer Application College in Punjab, India, UIC's hands-on approach paves the way for a smooth transition to the workforce after graduation. You will be equipped with the best knowledge, skills and passion to succeed in any number of computing careers this versatile degree prepares you for.</td>
+					
+						<td>The name of the university is inspired by The City Beautiful – Chandigarh, known as the epitome of cultural heritage and urbanization. Chandigarh University offers a unique and inspirational academic model designed to match the international standards. A wide spectrum of programs is paired with flexibility, experiential learning and interdisciplinary orientation. CU is involved in world-class research, with outstanding results in the contemporary research excellence framework.</td>
+					</tr>
+				<table>
+				<h3 style="font-family: Bahnschrift condensed">Scope</h3>
+					<p>According to US Bureau of Labor Statistics, employment of all software developers is projected to grow 17 percent from 2014 to 2024.</p>
+			<table>
+				<tr>
+				<td><h3 style="font-family: Bahnschrift condensed">Highlights of UIC</h3></td>
+				
+				<td><h3 style="font-family: Bahnschrift condensed">Department of Computer Applications</h3></td>
+				</tr>
+				<tr>
+					<td>
+					<ul type="square">
+						<li>Make things happen with contemporary and practically oriented learning at Chandigarh University.</li>
+						<li>Shape your future with the state of the art facilities and student friendly ambience at Chandigarh University.</li>
+						<li>Give a global vision to your career and get ahead with our strong Global alliances.</li>
+						<li>Chandigarh University offers highest return on investments to the students and their parents.</li>
+						<li>The impeccable placement record of Chandigarh University makes it the most sought after educational institute in North India.</li>
+					</ul></td>
+				
+					<td><ul><li>Department of Computer Application, Chandigarh University carries a vision of crafting next-gen IT professionals who can take up industry challenges effectively.</li><li> The department renders cutting-edge education ranging from the expertise in traditional software development -to- modern computing technologies.</li> Fully-equipped industry-sponsored labs, industry-aligned curriculum, and accreditations and validations by top companies such as <b>Microsoft, HPE, IBM, Oracle, Red Hat,</b> etc. give our students an exclusive edge over others.</li></ul></td>
+					</td>
+					<td><br><br></td>
+				</tr>
+			</table>
+			
+			<hr><li><h2 style="font-family: Bahnschrift condensed"><mark style="background-color: red; color: white;">PROGRAMS IN UNIVERSITY</mark> INSTITUTE OF COMPUTING(UIC)</h2></li>
+				<table>
+					<tr>
+						<td><b>Under-Graduate Computing Courses</b></td>
+					</tr>
+					<tr>
+						<td><ul>
+							<li>Bachelors of Computer Application(BCA)</li>
+						</ul></td>
+						<td><ul>
+							<li>Bachelors of Computer Application - Augmented Reality and Virtual Reality</li>
+						</ul></td>
+					</tr>
+					<tr>
+						<td><ul>
+							<li>Bachelors of Computer Application(User Interface/ User Experience Design)</li>
+						</ul></td>
+						<td><ul>
+							<li>B.Sc(Computer Science)</li>
+						</ul></td>
+					</tr>
+				</table><br>
+				<table>
+					<tr>
+						<td><b>Post-Graduate Computing Courses</b></td>
+					</tr>
+					<tr>
+						<td><ul>
+							<li>Master of Computer Application(MCA)</li>
+						</ul></td>
+						<td><ul>
+							<li>Master of Computer Application - Cloud Computing and DevOps</li>
+						</ul></td>
+					</tr>
+					<tr>
+						<td><ul>
+							<li>Master of Computer Application - Aetificial Intelligence & Machine Learning</li>
+						</ul></td>
+					</tr>
+				</table>
+				<table>
+					<tr>
+						<td><b>Doctorate Program</b></td>
+					</tr>
+					<tr>
+						<td><ul>
+							<li>Doctor of Philosophy(Computer Applications)</li>
+						</ul></td>
+					</tr>
+				</table>
+			<hr><li><h2 style="font-family: Bahnschrift condensed"><mark style="background-color: red; color: white;">CHANDIGARH</mark>UNIVERSITY SCHOLARSHIPS</h2></li>
+				<p>Chandigarh University is fully committed to its Institutional Social Responsibility. The University, besides being pioneers in quality education is proactive in uplifting the education standard and qualification of students of the nation in general and North region in particular. CU is enthusiastic to encourage and motivate bright students by providing additional benefits and facilities to shining stars and super achievers.</p>
+				<h3 style="font-family: Bahnschrift condensed">Chandigarh University Common Entrance Test (CUCET)<br> For The Academic Year 2023-2024</h3>
+				<table>
+					<tr>
+					<td>To provide an opportunity to bright and inquisitive young minds from across the country to study in the most challenging and diverse academic environment, Chandigarh University has launched CUCET, a common entrance exam with double benefits. The scholarship revolution of the year gives you a chance to avail of Rs. 60 Crores. It is aimed at rewarding the brilliance and potential of young aspirants to win scholarships and study in futuristic courses of their choice.</td>
+					
+					<td>It is a compulsory test for B.E. (Bachelor of Engineering), B.Pharmacy, Pharm D, Master of Pharmacy (Pharmaceutics), Master of Pharmacy (Pharmacology), Master of Pharmacy (Industrial Pharmacy), Master of Pharmacy (Pharmaceutical Chemistry), MBA, Integrated Law programs (B.A+LLB, BBA+LLB, BCom+LLB), and Integrated Law (LLM). With the idea of investing in talent, CUCET offers promising students with incredible financial assistance.</td>
+					</tr>
+				</table>
+				<p>CUCET is a National level online entrance test conducted by Chandigarh University, accredited with the prestigious A+ grade by NAAC.</p>
+				<img src="C:\Users\anish\OneDrive\Desktop\Screenshot 2023-09-04 014151.png" align='right' width='700' height='300'>
+				
+				<table>
+					<tr>
+						<th></th><th></th><th></th>
+						<th>CUCET Phase-I</th>
+						<th></th><th></th><th></th><th></th><th></th><th></th>
+						<th></th><th></th><th></th><th></th><th></th><th></th>
+						<th>CUCET Phase-II</th>
+					</tr>
+				</table>
+				
+				<table>
+					<tr>
+						<td>
+							<table border>
+								
+								<tr>
+									<td>90.01 to 100 Marks: <br><b>100% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>80 to 90 Marks: <br><b>60% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>70 to 79.99 Marks: <br><b>50% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>60 to 69.99 Marks: <br><b>40% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>50 to 59.99 Marks: <br><b>30% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>40 to 49.99 Marks: <br><b>20% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>30 to 39.99 Marks: <br><b>10% Scholarship<b></td>
+								</tr>
+							</table>
+						</td>
+						<td></td><td></td><td></td>
+						<td></td><td></td><td></td>
+						<td></td>
+						<td>
+							<table border>
+								
+								<tr>
+									<td>90.01 to 100 Marks: <br><b>100% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>80 to 90 Marks: <br><b>40% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>70 to 79.99 Marks: <br><b>30% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>60 to 69.99 Marks: <br><b>20% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>50 to 59.99 Marks: <br><b>15% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>40 to 49.99 Marks: <br><b>10% Scholarship<b></td>
+								</tr>
+								<tr>
+									<td>30 to 39.99 Marks: <br><b>Eligible<b></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+				<hr>
+			</ul>
+			<center><h2 style="font-family: Bahnschrift condensed">HOW TO APPLY?</h2></center>
+			<center><img src="C:\Users\anish\OneDrive\Desktop\Screenshot 2023-09-04 010234.png"></center>
+			<table>
+				<tr>
+					<th>STEP 1 - SIGN UP</th>
+					<th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th>
+					<th></th>
+					<th>STEP 2 - APPLY</th>
+					<th></th><th></th><th></th><th></th><th></th><th></th><th></th>
+					<th></th><th></th>
+					<th>STEP 3 - SUBMIT</th>
+				</tr>
+				<tr></tr><tr></tr>
+				<tr>
+					<td><ul><li>Sign up or Register for CUCET with basic details.</li><li> Your Email ID will act as your Username for the portal while the password will be set by you upon registration.</li><li>On successful registration, you will receive the confirmation message on your registered contact number and Email.</li><li> Use the Username and Password to Login to your CUCET Account.</li></ul></td><td></td><td></td><td></td><td></td><td></td><td><td></td><td></td><td></td>
+					<td><ul><li>After successfully creating your candidate profile for CUCET, you can proceed with choosing the Date for your examination.</li><li> Complete your profile by logging into your CUCET account and choose an examination date as per your convenience and preference.</li></ul></td>
+					<td></td><td></td>
+					<td></td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+					<td><ul><li>You become eligible for admission into Chandigarh University after clearing the CUCET examination.</li><li> Following your attempt at CUCET, the result will shortly be intimated, based on which you can submit your application for admission and avail merit-based scholarship.</li></ul></td>
+				</tr>
+			</table>
+		
+	<hr><center><h3 style="font-family: Bahnschrift condensed">FORTUNE GLOBAL 500 COMPANIES IN RECRUITERS LIST</h3></center>
+	<table>
+		<tr>
+			<td><br><br><br></td>
+			<td><br><br><br></td>
+			<td><br><br><br></td>
+			<td><br></td>
+			<td><img src="C:\Users\anish\OneDrive\Desktop\Google-Logo.png" width='150' height='70'></td>
+			<td><img src="C:\Users\anish\OneDrive\Desktop\IBM_logo_in.jpg" width='150' height='70'></td>
+			<td><img src="C:\Users\anish\OneDrive\Desktop\8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg" width='250' height='100'></td>
+			<td><img src="C:\Users\anish\OneDrive\Desktop\dell-logo-transparent-free-png.webp" width='150' height='150'></td>
+			<td><img src="C:\Users\anish\OneDrive\Desktop\American-Express-Logo-PNG-File.png" width='200' height='100'></td>
+			<td><img src="C:\Users\anish\OneDrive\Desktop\download (2).png" width='200' height='100'></td>
+			<td><img src="C:\Users\anish\OneDrive\Desktop\Wipro-logo.png" width='150' height='70'></td>
+			<td><img src="C:\Users\anish\OneDrive\Desktop\Tata_Consultancy_Services_Logo.svg.png" width='150' height='70'</td>
+			
+		</tr>
+	</table>
+	<hr><h2 style="font-family: Bahnschrift condensed"><center>Dreaming of studying abroad?</center></h2>
+		<h4 style="font-family: Bahnschrift condensed"><center>Under Chandigarh University's International Transfer Program (ITP), you can also choose to pursue<br> your degree in a top-notch college or university abroad.</center></h4>
+	<center><img src="C:\Users\anish\OneDrive\Pictures\Screenshots\Screenshot 2023-09-04 015803.png" width="400" height="100"></center>	
+	</body>
+</html>	
